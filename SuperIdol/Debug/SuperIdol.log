@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\SuperIdol\SuperIdol\Source.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\SuperIdol\SuperIdol\Source.cpp(106,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\SuperIdol\SuperIdol\Source.cpp(106,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SuperIdol.vcxproj -> C:\Users\User\Desktop\SuperIdol\Debug\SuperIdol.exe
